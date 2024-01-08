@@ -1,0 +1,28 @@
+.Card{
+    max-width: 300px;
+    /* border: solid 1px red; */
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    left: 40%;
+    box-shadow: 10px 5px 5px lightblue;
+    
+    
+}
+
+.price{
+    color: grey;
+    font-size: 12x;
+    
+}
+
+.Card button{
+    border: none;
+    outline: 0;
+    padding: 12px;
+    width: 300px;
+    background-color: black;
+    color: white;
+    bottom: 0px;
+    margin: 0px;
+}
