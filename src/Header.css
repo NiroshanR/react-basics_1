@@ -1,0 +1,19 @@
+.Header{
+    height: 3.5rem;
+    width: 100vm;
+    background-color: rgba(55, 71,90,1);
+}
+
+.Header span{
+    float: left;
+    text-align: center;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.Header span:hover{
+    background-color: orange;
+    cursor: pointer;
+}
